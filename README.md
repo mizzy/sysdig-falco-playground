@@ -1,5 +1,11 @@
 # Sysdig Falco Playground
 
+## References
+
+- [Falco | Sysdig](https://sysdig.com/opensource/falco/)
+- [Falco - Container Native Runtime Security](https://falco.org/)
+- [Falco - Container Native Runtime Security](https://falco.org/docs/)
+
 ## Installing Falco
 
 ```sh
